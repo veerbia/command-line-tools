@@ -2,7 +2,7 @@ import pytube
 import os
 
 url = input("enter the url: ")
-if url = " ":
+if url == " ":
     url = "https://www.youtube.com/watch?v=KMU0tzLwhbE"
 
 path= "/Users/veerbhatia/Downloads"
